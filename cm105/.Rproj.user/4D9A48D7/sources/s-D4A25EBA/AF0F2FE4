@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541921888767.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "385092288",
+    "id" : "AF0F2FE4",
+    "lastKnownWriteTime" : 1541922025,
+    "last_content_update" : 1541922025269,
+    "path" : "~/pp/tests/testthat/test_square.R",
+    "project_path" : "tests/testthat/test_square.R",
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
